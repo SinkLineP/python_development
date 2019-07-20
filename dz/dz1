@@ -1,0 +1,11 @@
+пользователь вводит: год, месяц, день
+
+получить текущую дату: import datetime
+air = datetime.date.today()
+
+cur
+
+
+
+
+sayt: https://docs.python.org
